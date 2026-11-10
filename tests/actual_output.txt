@@ -1,0 +1,22 @@
+COMMAND: java -cp out smartparking.Main
+Tickets issued: true, true, true, true, true
+Occupancy: 5/14
+Two-wheeler fee for 61 minutes: Rs 20.0
+Occupancy after exit: 4
+Student monthly pass fee: Rs 0.0
+Electric car fee incl. 10 kWh: Rs 210.0
+Delivery van test completed: 60.0
+
+COMMAND: java -cp out ParkingFacility
+[0, 0]
+[0, 1]
+[1, 0]
+null
+true false false
+[0, 1]
+
+COMMAND: java -cp out FeeDemo
+TwoWheeler TN01A1 -> Rs 30.0
+Car TN02B2 -> Rs 90.0
+ElectricCar TN03C3 -> Rs 210.0
+true

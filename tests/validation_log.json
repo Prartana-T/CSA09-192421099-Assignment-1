@@ -1,0 +1,5 @@
+{
+  "java -cp out smartparking.Main": "Tickets issued: true, true, true, true, true\nOccupancy: 5/14\nTwo-wheeler fee for 61 minutes: Rs 20.0\nOccupancy after exit: 4\nStudent monthly pass fee: Rs 0.0\nElectric car fee incl. 10 kWh: Rs 210.0\nDelivery van test completed: 60.0\n",
+  "java -cp out ParkingFacility": "[0, 0]\n[0, 1]\n[1, 0]\nnull\ntrue false false\n[0, 1]\n",
+  "java -cp out FeeDemo": "TwoWheeler TN01A1 -> Rs 30.0\nCar TN02B2 -> Rs 90.0\nElectricCar TN03C3 -> Rs 210.0\ntrue\n"
+}
